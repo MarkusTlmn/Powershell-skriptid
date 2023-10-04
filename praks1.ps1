@@ -1,7 +1,7 @@
 #skripti algus
 #defineerime anrud read
 $Array1 = @(1,2,3)
-$Array2 = @(4,5,5)
+$Array2 = @(4,5,6)
 $Array3 = @()
 
 #määrame igale Array3 reale vastava arvutuse
